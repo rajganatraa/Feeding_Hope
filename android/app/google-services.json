@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502089521429",
+    "firebase_url": "https://ira-donation-default-rtdb.firebaseio.com",
+    "project_id": "ira-donation",
+    "storage_bucket": "ira-donation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502089521429:android:1362fcc21dfe867378b11c",
+        "android_client_info": {
+          "package_name": "com.example.donation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502089521429-h4u0k71tocmvt7kk1pmfof7qhsmjlcco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2rjcI7iVpOUs0PcPN4pQgGTwKTvHTps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502089521429-h4u0k71tocmvt7kk1pmfof7qhsmjlcco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

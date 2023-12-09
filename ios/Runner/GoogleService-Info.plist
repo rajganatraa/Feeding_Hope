@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>502089521429-vgnbmdb6nmgf4p3t5tsbqugsrvcievp5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.502089521429-vgnbmdb6nmgf4p3t5tsbqugsrvcievp5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCl0ufuHx9DSkPq5EKVGdeArVkUHTerVFc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>502089521429</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.donationApp</string>
+	<key>PROJECT_ID</key>
+	<string>ira-donation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ira-donation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:502089521429:ios:779006ec5d466e3378b11c</string>
+	<key>DATABASE_URL</key>
+	<string>https://ira-donation-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
