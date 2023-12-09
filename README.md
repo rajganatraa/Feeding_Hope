@@ -1,4 +1,4 @@
-<img src="https://github.com/rajganatraa/Feeding_Hope/blob/main/feeding_hope_icon.jpg" width="50" height="50" align="left">
+<img src="https://github.com/rajganatraa/Feeding_Hope/blob/main/icon.jpg" width="100" height="100" align="left">
 
 # Feeding Hope
 
