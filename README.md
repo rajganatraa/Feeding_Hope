@@ -1,3 +1,5 @@
+<img src="https://github.com/rajganatraa/Feeding_Hope/blob/main/feeding_hope_icon.jpg" width="50" height="50" align="left">
+
 # Feeding Hope
 
 A new Flutter project.
